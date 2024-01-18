@@ -1,0 +1,8 @@
+.borderBox {
+  border: 2px solid #ff0000;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 100px;
+  height: 100px;
+}
